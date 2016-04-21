@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android-Session4-Assignment3</string>
+
+    <array name="VersionName">
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>IceCreamSandwich</item>
+        <item>JellyBean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+    </array>
+</resources>
